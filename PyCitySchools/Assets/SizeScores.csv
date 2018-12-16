@@ -1,0 +1,4 @@
+school_size,Count,Average Math Score,Average Reading Score,% Passing Math,% Passing Reading,% Overall Passing Rate
+Small (<1000),"1,389",83.83,83.97,93.95,96.04,95.00
+Medium (1000-2000),"8,522",83.37,83.87,93.62,96.77,95.19
+Large (2000-5000),"29,259",77.48,81.20,68.65,82.13,75.39
